@@ -4,7 +4,7 @@
 An information page for Pokémon fans. Data from the PokéAPI, localized to a json to be considerate given the amount of request this application would require in order to work as intended.
 
 ## Where is the Link
-<a href="https://iamserda.github.io/pokedeck/" target="_blank">Snake</a>
+<a href="https://iamserda.github.io/pokedeck/" target="_blank">Pokédeck IIXC</a>
 
 
 Questions, concerns, emotional outbursts? Reach out!
